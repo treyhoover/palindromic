@@ -10,8 +10,10 @@ Note that, as an example, 196 never gets palindromic (at least according to rese
 Input Description
 -----------------
 You will be given a number, one per line. Example:
-```11
-68```
+```
+11
+68
+```
 
 Output Description
 ------------------
@@ -21,15 +23,19 @@ You will describe how many steps it took to get it to be palindromic, and what t
 
 Challenge Input
 ---------------
-```123
+```
+123
 286
-196196871```
+196196871
+```
 
 Challenge Output
 ----------------
-```123 gets palindromic after 1 steps: 444
+```
+123 gets palindromic after 1 steps: 444
 286 gets palindromic after 23 steps: 8813200023188
-196196871 gets palindromic after 45 steps: 4478555400006996000045558744```
+196196871 gets palindromic after 45 steps: 4478555400006996000045558744
+```
 
 Note
 ----
